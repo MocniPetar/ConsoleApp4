@@ -8,5 +8,7 @@ namespace ConsoleApp4
 {
     internal class NewClass
     {
+        public string NewString {get; set;} = !null;
+        public int NewInt {get; set;}
     }
 }
