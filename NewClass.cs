@@ -8,5 +8,8 @@ namespace ConsoleApp4
 {
     internal class NewClass
     {
+        NewClass() {
+            Console.WriteLine("Hello");
+        }
     }
 }
